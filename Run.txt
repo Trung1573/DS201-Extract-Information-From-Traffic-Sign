@@ -1,0 +1,5 @@
+# chạy lệnh dưới bằng cmd tại ở địa đó 
+labelImg [địa chỉ nơi chưa ảnh] ./Label/classes.txt Label
+
+# cách để chạy vào ổ đĩa
+cd [địa chỉ ổ đĩa]
