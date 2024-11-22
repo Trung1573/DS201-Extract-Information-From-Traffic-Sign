@@ -1,5 +1,9 @@
-2
-4
-1
-7
-9
+cho_phep_xe_2_banh
+oto_thang
+moto_co_gioi_oto_con_thang
+trai
+thang
+phai
+trai_thang
+phai_thang
+hay_tai_nan

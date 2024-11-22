@@ -2,19 +2,18 @@
 
 ## Mục lục
 1. [Giới thiệu](#giới-thiệu)
-2. [Cài đặt](#cài-đặt)
-3. [Cách sử dụng](#cách-sử-dụng)
+2. [Gắn nhãn](#gắn-nhãn)
+3. [Mô hình](#mô-hình)
 4. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
-5. [Giấy phép](#giấy-phép)
-6. [Link Dataset](https://drive.google.com/drive/folders/1QQck09yVnIre4tsMeozBf111v9OzZ7IN?usp=sharing)
+5. [Link Dataset](https://drive.google.com/drive/folders/1QQck09yVnIre4tsMeozBf111v9OzZ7IN?usp=sharing)
 
 ## Giới thiệu
 
 Giới thiệu chi tiết về dự án, mục tiêu của nó và lý do tại sao bạn tạo ra nó.
 
-## Cài đặt
+## gắn nhãn
 
-Hướng dẫn cài đặt dự án trên máy của người dùng.
+
 
 
 
