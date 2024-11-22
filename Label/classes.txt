@@ -56,3 +56,8 @@ cho_ngoat_trai
 giao_duong_khong_uu_tien
 canh_bao_tre_em
 duong_hep
+giao_duong_uu_tien
+sat_lo
+cau_hep
+canh_bao_duong_2_chieu
+cam_bus
