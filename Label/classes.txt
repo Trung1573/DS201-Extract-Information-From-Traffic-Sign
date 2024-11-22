@@ -27,3 +27,13 @@ cam_oto_trai
 moto_xe_dap
 cam_oto
 cam_oto_2_banh_xe_dap
+moto_oto_bus
+benh_vien
+3_huong
+duong_uu_tien
+duong_1_chieu
+cam_xich_lo
+cam_voi_trong_luong
+cho_ngoat_phai
+di_cham
+oto_bus_tai_thang
