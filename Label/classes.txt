@@ -50,3 +50,9 @@ chi_di_thang
 chi_re_phai
 huong_trai
 chi_re_trai
+cho_ngoat_nguy_hiem
+duong_giao_nhau
+cho_ngoat_trai
+giao_duong_khong_uu_tien
+canh_bao_tre_em
+duong_hep
