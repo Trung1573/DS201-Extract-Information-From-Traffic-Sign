@@ -37,3 +37,16 @@ cam_voi_trong_luong
 cho_ngoat_phai
 di_cham
 oto_bus_tai_thang
+chu_y_xe_buyt
+cam_oto_quay_dau
+tai_nan_chet_nguoi
+Ben_xe_buyt
+cam_quay_dau
+cho_phep_do_xe
+cam_re
+oto_phai
+co_vong_xuyen
+chi_di_thang
+chi_re_phai
+huong_trai
+chi_re_trai
