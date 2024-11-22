@@ -67,3 +67,6 @@ tai
 moto
 oto
 6-8_16-19
+xich_lo
+cam_bus_tai
+cam_tai
