@@ -23,7 +23,7 @@ canh_bao_nguoi_di_bo
 oto_2_banh_thang
 canh_bao_vong_xuyen
 canh_bao_xe_lua
-cam_oto_trai
+cam_oto_re
 moto_xe_dap
 cam_oto
 cam_oto_2_banh_xe_dap
@@ -70,3 +70,10 @@ oto
 xich_lo
 cam_bus_tai
 cam_tai
+cam_moto
+cam_oto_//
+moto_oto_bus_tai
+cam_nguoi
+cam_quay_dau_re
+cam_coi
+cam_trai_thang
